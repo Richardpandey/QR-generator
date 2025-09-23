@@ -9,7 +9,7 @@ A simple Python tool to create QR codes from URLs, text files, and binary files.
 
 ### 1. Download the git file
 ```bash
-git clone https://github.com/Richardpandey/QR-generator
+git clone https://github.com/Richardpandey/QR-generator.git
 ```
 
 ### 2. Move to the Directory
