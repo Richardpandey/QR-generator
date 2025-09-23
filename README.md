@@ -43,11 +43,3 @@ python3 main.py
 
 -  banner.py → Welcome message 
 
-
-## Requirements
-
-- Python 3.6+ 
-
-- qrcode 
-
-- Pillow 
