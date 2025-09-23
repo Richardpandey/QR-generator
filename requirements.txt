@@ -1,0 +1,5 @@
+qrcode>=7.4.2
+pillow>=9.5.0
+colorama>=0.4.6
+pyfiglet>=0.8.post1
+termcolor>=2.3.0
