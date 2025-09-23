@@ -14,12 +14,12 @@ git clone https://github.com/Richardpandey/QR-generator.git
 
 ### 2. Move to the Directory
 ```bash
-cd qr_generator
+cd QR_generator
 ```
 
 ### 3. Install dependencies
 ```bash
-pip install qrcode[pil]
+pip3 install -r requirements.txt
 ```
 
 ### 4. Run the program
@@ -48,6 +48,6 @@ python3 main.py
 
 - Python 3.6+ 
 
-- qrcode -
+- qrcode 
 
-- Pillow -
+- Pillow 
