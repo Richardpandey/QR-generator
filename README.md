@@ -22,7 +22,7 @@ cd QR_generator
 pip3 install -r requirements.txt
 ```
 
-### 4. Run the program
+### 4. Run the tool.
 ```bash
 python3 main.py
 ```
